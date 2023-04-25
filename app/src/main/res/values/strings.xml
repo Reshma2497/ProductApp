@@ -2,4 +2,5 @@
     <string name="app_name">Product App</string>
     <string name="products">Products</string>
     <string name="placeholder_search">Search</string>
+    <string name="products_details">Product Details</string>
 </resources>
